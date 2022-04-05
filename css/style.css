@@ -1,0 +1,50 @@
+body{
+    background-image: url(../imagens/backgorund.png);
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 6mm;
+    }
+
+.github{
+    text-align: start;
+    font-size: 40px;
+    list-style-type: none;
+    list-style-image: url(../imagens/GitHub-Mark-32px.png);
+    letter-spacing: 2px;
+    margin-left: 1cm;
+}
+
+
+.insta{
+    text-align: start;
+    position: center;
+    font-size: 40px;
+    list-style-type: none;
+    list-style-image: url(../imagens/insta.png);
+    letter-spacing: 2px;
+    margin-left: 1cm;
+}
+
+
+.youtube{
+    font-size: 40px;
+    list-style-type: none;
+    list-style-image: url(../imagens/Youtube.png);
+    letter-spacing: 2px;
+    margin-left: 1cm;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
